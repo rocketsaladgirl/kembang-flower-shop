@@ -1,0 +1,12 @@
+.header__btn {
+    width: 71px;
+    height: 36px;
+    padding: 8px 20px;
+    font-family: 'Nunito';
+    color: #156963;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    text-decoration: none;
+}

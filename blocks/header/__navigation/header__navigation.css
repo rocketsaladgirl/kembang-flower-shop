@@ -1,0 +1,14 @@
+.header__navigation {
+    width: 92%;
+    position: absolute;
+    top: 40px;
+    left: 56px;
+    right: 56px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
