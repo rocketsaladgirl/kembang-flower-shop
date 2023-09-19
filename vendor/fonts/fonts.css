@@ -1,12 +1,30 @@
 /*Шрифты*/
 @font-face {
-    font-family: 'Libre Baskerville';
-    src: url('../fonts/LibreBaskerville-Regular.ttf');
+    font-family: 'Nunito';
+    src: url('../fonts/Nunito-Regular.ttf');
     font-weight: 400;
 }
 
 @font-face {
-    font-family: 'Public Sans';
-    src: url('../fonts/PublicSans-Regular.ttf');
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../fonts/WorkSans-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Regular.ttf');
     font-weight: 400;
 }
