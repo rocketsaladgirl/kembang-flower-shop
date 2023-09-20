@@ -1,6 +1,6 @@
 .header__background {
     width: 50%;
-    height: 750px;
+    /* height: 750px; */
     background-image: url('../../../images/header-foto.jpg');
     background-repeat: no-repeat;
     background-size: cover;

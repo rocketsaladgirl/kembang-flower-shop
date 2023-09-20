@@ -1,10 +1,10 @@
 .header__arrow_type_previous {
     margin: 0;
     margin-right: 8px;
-    background-image: url('../../../../images/logo/arrow-back-outline.svg');
-}
-
-.header__arrow_type_previous:hover {
     background-image: url('../../../../images/logo/arrow-back-hover.svg');
 }
+
+/* .header__arrow_type_previous:hover {
+    background-image: url('../../../../images/logo/arrow-back-outline.svg');
+} */
 

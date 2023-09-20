@@ -1,8 +1,9 @@
 .header__arrow-subtitle_type_previous {
-    color: #E0E0E0;
-}
-
-.header__arrow-subtitle_type_previous:hover {
+    /* color: #E0E0E0; */
     color: #333333;
 }
+
+/* .header__arrow-subtitle_type_previous:hover {
+    color: #333333;
+} */
 

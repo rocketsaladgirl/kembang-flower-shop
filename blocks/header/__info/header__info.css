@@ -1,6 +1,6 @@
 .header__info {
     width: 50%;
-    height: 750px;
+    /* height: 750px; */
     display: flex;
     flex-direction: column;
 }
