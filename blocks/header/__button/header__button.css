@@ -1,0 +1,13 @@
+.header__button {
+    width: 50%;
+    /* height: 160px; */
+    padding: 0;
+    padding-left: 91px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    background-color: #FFF;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}

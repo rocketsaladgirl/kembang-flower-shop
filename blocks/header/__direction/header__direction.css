@@ -1,0 +1,6 @@
+.header__direction {
+    margin-top: 40.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

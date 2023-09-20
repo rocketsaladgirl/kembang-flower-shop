@@ -12,3 +12,21 @@
 @import url('../blocks/header/__cart/header__cart.css');
 @import url('../blocks/header/__btn/header__btn.css');
 @import url('../blocks/header/__btn/_type/header__btn_type_green.css');
+@import url('../blocks/header/__content/header__content.css');
+@import url('../blocks/header/__background/header__background.css');
+@import url('../blocks/header/__info/header__info.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/header/__buttons/header__buttons.css');
+@import url('../blocks/header/__button/header__button.css');
+@import url('../blocks/header/__button/_type/header__button_type_green.css');
+@import url('../blocks/header/__direction/header__direction.css');
+@import url('../blocks/header/__arrow/header__arrow.css');
+@import url('../blocks/header/__arrow/_type/header__arrow_type_previous.css');
+@import url('../blocks/header/__arrow/_type/header__arrow_type_next.css');
+@import url('../blocks/header/__arrow-subtitle/header__arrow-subtitle.css');
+@import url('../blocks/header/__arrow-subtitle/_type/header__arrow-subtitle_type_previous.css');
+@import url('../blocks/header/__arrow-subtitle/_type/header__arrow-subtitle_type_next.css');
+@import url('../blocks/header/__button-title/header__button-title.css');
+@import url('../blocks/header/__button-title/_type/header__button-title_type_green.css');
+
