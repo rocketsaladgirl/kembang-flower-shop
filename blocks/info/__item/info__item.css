@@ -1,0 +1,7 @@
+.info__item {
+    padding: 22px 16px 21px 16px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+}

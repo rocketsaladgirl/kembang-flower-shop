@@ -1,6 +1,8 @@
 @import url('../vendor/normalize.css');
 @import url('../vendor/fonts/fonts.css');
 
+@import url('../blocks/page/page.css');
+
 /*Блок header*/
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__navigation/header__navigation.css');
@@ -29,4 +31,16 @@
 @import url('../blocks/header/__arrow-subtitle/_type/header__arrow-subtitle_type_next.css');
 @import url('../blocks/header/__button-title/header__button-title.css');
 @import url('../blocks/header/__button-title/_type/header__button-title_type_green.css');
+
+/*Блок content*/
+@import url('../blocks/content/content.css');
+
+/*Секция info*/
+@import url('../blocks/info/info.css');
+@import url('../blocks/info/__list/info__list.css');
+@import url('../blocks/info/__item/info__item.css');
+@import url('../blocks/info/__headline/info__headline.css');
+@import url('../blocks/info/__icon/info__icon.css');
+@import url('../blocks/info/__title/info__title.css');
+@import url('../blocks/info/__description/info__description.css');
 
