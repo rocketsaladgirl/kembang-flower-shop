@@ -1,0 +1,7 @@
+.gallery__form {
+    width: 91%;
+    margin: 0 56px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
