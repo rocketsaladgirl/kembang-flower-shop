@@ -1,0 +1,6 @@
+.about__image-big {
+    width: 513px;
+    height: 610px;
+    object-fit: cover;
+    object-position: center;
+}

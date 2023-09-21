@@ -1,0 +1,8 @@
+.about {
+    margin: 0;
+    margin-top: 89px;
+    padding: 0px 57px 0px 57px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
