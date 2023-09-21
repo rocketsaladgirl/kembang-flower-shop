@@ -1,0 +1,7 @@
+.gallery__image {
+    width: 217px;
+    height: 217px;
+    object-fit: cover;
+    object-position: center;
+    background-color: #F3F4F6;
+}

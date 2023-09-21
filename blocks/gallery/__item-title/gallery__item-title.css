@@ -1,0 +1,9 @@
+.gallery__item-title {
+    margin: 0;
+    margin-top: 16px;
+    color: #000;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}

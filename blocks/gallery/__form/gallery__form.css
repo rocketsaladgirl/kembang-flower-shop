@@ -1,7 +1,11 @@
 .gallery__form {
     width: 91%;
     margin: 0 56px;
+    padding-bottom: 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #E0E0E0;
+    box-sizing: border-box;
 }

@@ -1,0 +1,10 @@
+.gallery__catalog {
+    /* width: 91%; */
+    margin: 24px 56px 0px 56px;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(5, 217px);
+    grid-template-rows: 1fr;
+    column-gap: 18px;
+}
