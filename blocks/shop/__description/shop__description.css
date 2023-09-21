@@ -1,0 +1,6 @@
+.shop__description {
+    width: 585px;
+    margin: 88px 6px 88px 97px;
+    display: flex;
+    flex-direction: column;
+}

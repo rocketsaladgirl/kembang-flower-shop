@@ -63,3 +63,10 @@
 @import url('../blocks/about/__text/about__text.css');
 @import url('../blocks/about/__image/about__image.css');
 @import url('../blocks/about/__image-big/about__image-big.css');
+
+/*Секция shop*/
+@import url('../blocks/shop/shop.css');
+@import url('../blocks/shop/__description/shop__description.css');
+@import url('../blocks/shop/__title/shop__title.css');
+@import url('../blocks/shop/__button/shop__button.css');
+@import url('../blocks/shop/__image/shop__image.css');

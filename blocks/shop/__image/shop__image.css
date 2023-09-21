@@ -1,0 +1,9 @@
+.shop__image {
+    width: 480px;
+    /* margin-right: 47px; */
+    background-image: url('../../../images/plant.jpeg');
+    background-repeat: no-repeat;
+    background-position: 50% 70%;
+    background-size: 402px 532px;
+    transform: scaleX(-1);
+}
