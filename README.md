@@ -26,4 +26,4 @@ https://disk.yandex.ru/d/IORG4XyAaVF15Q
 1. git clone
 2. открытие index.html
 
-С результатом можно ознакомиться по ссылке: [Kembang-flower-shop]().
+С результатом можно ознакомиться по ссылке: [Kembang-flower-shop](https://rocketsaladgirl.github.io/kembang-flower-shop/).
