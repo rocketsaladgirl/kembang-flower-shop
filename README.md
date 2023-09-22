@@ -1,5 +1,5 @@
 # kembang-flower-shop
-![kembang-flower-shop]()
+![2023-09-22 15 46 13](https://github.com/rocketsaladgirl/kembang-flower-shop/assets/114432448/61b1aa6e-2741-463a-9e14-7c8839a24634)
 
 ## О чем данный проект:
 
