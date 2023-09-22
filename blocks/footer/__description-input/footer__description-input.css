@@ -1,0 +1,8 @@
+.footer__description-input {
+    width: 234px;
+    height: 32px;
+    padding: 8px 0px 8px 13px;
+    border: 1px solid #F2F2F2;
+    border-radius: 2px;
+    box-sizing: border-box;
+}

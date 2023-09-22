@@ -42,9 +42,21 @@
 }
 
 @font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
     font-family: 'Work Sans';
     src: url('../fonts/WorkSans-Regular.ttf');
     font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../fonts/WorkSans-Medium.ttf');
+    font-weight: 500;
 }
 
 @font-face {

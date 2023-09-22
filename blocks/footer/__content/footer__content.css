@@ -1,0 +1,8 @@
+.footer__content {
+    margin: 80px 167px 71px 167px;
+    display: grid;
+    /* grid-template-columns: repeat(4, 1fr); */
+    grid-template-columns: 0.5fr fit-content(10ch) fit-content(10ch) 1fr;
+    grid-template-rows: 1fr;
+    column-gap: 80px;  
+}

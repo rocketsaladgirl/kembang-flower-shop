@@ -70,3 +70,23 @@
 @import url('../blocks/shop/__title/shop__title.css');
 @import url('../blocks/shop/__button/shop__button.css');
 @import url('../blocks/shop/__image/shop__image.css');
+
+/*Блок footer*/
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__content/footer__content.css');
+@import url('../blocks/footer/__contact/footer__contact.css');
+@import url('../blocks/footer/__contact-logo/footer__contact-logo.css');
+@import url('../blocks/footer/__contact-name/footer__contact-name.css');
+@import url('../blocks/footer/__contact-address/footer__contact-address.css');
+@import url('../blocks/footer/__links/footer__links.css');
+@import url('../blocks/footer/__links-name/footer__links-name.css');
+@import url('../blocks/footer/__links-list/footer__links-list.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__description/footer__description.css');
+@import url('../blocks/footer/__description-title/footer__description-title.css');
+@import url('../blocks/footer/__description-field/footer__description-field.css');
+@import url('../blocks/footer/__description-input/footer__description-input.css');
+@import url('../blocks/footer/__description-button/footer__description-button.css');
+/* @import url('../blocks/footer/__corporation-links/footer__corporation-links.css');
+@import url('../blocks/footer/__corporation-link/footer__corporation-link.css');
+@import url('../blocks/footer/__product/footer__product.css'); */

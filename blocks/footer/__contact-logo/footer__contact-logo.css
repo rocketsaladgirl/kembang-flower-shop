@@ -1,0 +1,12 @@
+.footer__contact-logo {
+    width: 112px;
+    height: 24px;
+    margin: 0;
+    color: #156963;
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
