@@ -1,5 +1,5 @@
-# kembang-flower-shop
-## Проект сайта цветочного магазина
+# Проект цветочного магазина - kembang-flower-shop 
+
 ![kembang](https://github.com/rocketsaladgirl/kembang-flower-shop/assets/114432448/fc7b909a-c586-4be7-aab5-920637a0dd9a)
 
 ## О чем данный проект:
